@@ -13,7 +13,7 @@ volumes:
 networks:
   byfn:
     external:
-      name: first-network
+      name: ingress
 
 services:
 
